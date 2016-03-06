@@ -19,8 +19,19 @@ Ubicarnos en nuestra carpeta creada
 
 ejemplo: git add .
 
-6. viene el commit
+6. viene el commit -m "comentario delo realizado"
 
+7. git status (Archivos en la pc)
+
+
+SUBIR A LA NUBE:
+
+8. Subir los cambios a la nube (PUSH)
+	ejemplo: git push origin master
+
+ACTUALIZAR:
+
+9. git pull origin master
 
 
 
